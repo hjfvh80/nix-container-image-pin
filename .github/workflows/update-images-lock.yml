@@ -24,6 +24,9 @@ jobs:
       - name: Run build-images-lock
         run: nix run '.#build-images-lock'
 
+      - name: Track generated file so Nix can see it
+        run: git add -N images-lock.nix
+
       - name: Run checks
         run: nix flake check
 
