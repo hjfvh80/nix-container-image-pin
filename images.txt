@@ -1,8 +1,9 @@
-docker.io/clusterzx/paperless-ai:latest
-docker.io/itzcrazykns1337/perplexica:main
-docker.io/openspeedtest/latest:latest
-ghcr.io/home-assistant/home-assistant:stable
-ghcr.io/ignisda/ryot:v8
-ghcr.io/toeverything/affine:stable
-docker.io/manifestdotbuild/manifest:latest
-ghcr.io/danielbrendel/hortusfox-web:latest
+docker.io/fnsys/dockhand:latest
+docker.io/lmscommunity/lyrionmusicserver:stable
+docker.io/pihole/pihole:latest
+docker.io/dokuwiki/dokuwiki:stable
+docker.io/jgraph/drawio:latest
+docker.io/hashicorp/http-echo:latest
+docker.io/rcourtman/pulse:latest
+docker.io/stirlingtools/stirling-pdf:latest
+docker.io/vaultwarden/server:latest
