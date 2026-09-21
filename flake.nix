@@ -19,7 +19,7 @@
     flake-parts.lib.mkFlake { inherit inputs; } {
       systems = import systems;
 
-      flake.containersImages = nixpkgs.lib.genAttrs (import systems) (s: images.${s} or null);
+      flake.containerImages = nixpkgs.lib.genAttrs (import systems) (s: images.${s} or null);
 
       perSystem =
         {
