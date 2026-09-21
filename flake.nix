@@ -75,20 +75,25 @@
 
           checks = lib.optionalAttrs (system == "x86_64-linux") (
             let
-              imageRef = "ghcr.io/home-assistant/home-assistant:stable";
-              entry = images."x86_64-linux".${imageRef};
-              imageName = lib.head (lib.splitString ":" imageRef);
-              finalImageTag = lib.last (lib.splitString ":" imageRef);
-              imageDigest = lib.last (lib.splitString "@" entry.ref);
+              entries = images."${system}" or { };
+              mkCheck =
+                imageRef: entry:
+                let
+                  imageName = lib.head (lib.splitString ":" imageRef);
+                  finalImageTag = lib.last (lib.splitString ":" imageRef);
+                  imageDigest = lib.last (lib.splitString "@" entry.ref);
+                in
+                pkgs.dockerTools.pullImage {
+                  inherit imageName imageDigest finalImageTag;
+                  sha256 = entry.sha256;
+                  os = "linux";
+                  arch = "amd64";
+                };
             in
-            {
-              ha-image = pkgs.dockerTools.pullImage {
-                inherit imageName imageDigest finalImageTag;
-                sha256 = entry.sha256;
-                os = "linux";
-                arch = "amd64";
-              };
-            }
+            lib.mapAttrs' (
+              imageRef: entry:
+              lib.nameValuePair (builtins.replaceStrings [ "/" ":" ] [ "-" "-" ] imageRef) (mkCheck imageRef entry)
+            ) entries
           );
 
           formatter = pkgs.nixfmt;
