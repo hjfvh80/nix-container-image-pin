@@ -1,8 +1,8 @@
 {
   x86_64-linux = {
     "docker.io/jgraph/drawio:latest" = {
-      ref = "docker.io/jgraph/drawio@sha256:3e49a8025a5312ea7f3f0a9187a0ea2b4b27e515cdce532a5f89f8a405b60a87";
-      sha256 = "sha256-4lPqju1UvSnpRwEh0z7zy6GTJ2rLo48mXXw6j09SESs=";
+      ref = "docker.io/jgraph/drawio@sha256:29fd8167c35da7d887167269aaa79bab5db2252936eb2bb48f1cb281fdefb9a7";
+      sha256 = "sha256-ryy/MUs65dTtFNZrvj3zAprD8tlzzNsNxMGrng7rLe4=";
     };
     "docker.io/dokuwiki/dokuwiki:stable" = {
       ref = "docker.io/dokuwiki/dokuwiki@sha256:b8a2a81960604debb488e13fb6e62f2cd48823bbda8c5ccfb654969fa1b368d6";
@@ -13,8 +13,8 @@
       sha256 = "sha256-o9eHaNsLkGjR2Ua398cteJf4Pa0f8jbkH4TIGTTS9Sg=";
     };
     "docker.io/fnsys/dockhand:latest" = {
-      ref = "docker.io/fnsys/dockhand@sha256:45f115757b0e661964e8a294e29ec366556a61b0863f7ca21e91eaa62f97ccee";
-      sha256 = "sha256-uE6LVAD/ymnyj9/E3uYiuelodT6RhQBrbvYR366Izro=";
+      ref = "docker.io/fnsys/dockhand@sha256:8cc9c04a80ff68eebf16f33e067b771f6e310782d76145caa1e6b77610c4e1ff";
+      sha256 = "sha256-6Y9mAZXdUIJmc/YTVzn9AD9GooUd7dvgxbBoK2JqvMA=";
     };
     "docker.io/stirlingtools/stirling-pdf:latest" = {
       ref = "docker.io/stirlingtools/stirling-pdf@sha256:50c0617a9017f130281b38056c1dfdf7701955da473413cf3a8ccf1c64d5820d";
@@ -39,8 +39,8 @@
   };
   aarch64-linux = {
     "docker.io/fnsys/dockhand:latest" = {
-      ref = "docker.io/fnsys/dockhand@sha256:83a59a668b0b0143efc62ef909aead461db58766b9c0b93e2eef4eea5fb4ce31";
-      sha256 = "sha256-i1G6tbuUH1m4GtIkbEkLGhtvYUbiXKKzWpGP1BEZ+OA=";
+      ref = "docker.io/fnsys/dockhand@sha256:2eaf58ee90a84a7cb0e24531730d4cbc974d124e529a9c5cf7463e8c3e552313";
+      sha256 = "sha256-kf4Er8uU96hnWAV0OI8b+83TsbUyIasaCOvim66uja4=";
     };
     "docker.io/lmscommunity/lyrionmusicserver:stable" = {
       ref = "docker.io/lmscommunity/lyrionmusicserver@sha256:522766b5e12f7c535fdd1132072c488b976c50d15852efb1f13af79dd2f3afbe";
@@ -63,8 +63,8 @@
       sha256 = "sha256-4h5k7dfxgqdi3twv8C6vPBR7u2+OayItMXCnTrvYlGY=";
     };
     "docker.io/jgraph/drawio:latest" = {
-      ref = "docker.io/jgraph/drawio@sha256:870865a9e8da44dbc0caf801fb5e319accc258ac85f59315b0c5564739d06440";
-      sha256 = "sha256-n2KFAb68+TfxG3P1sMTyntd9so35ivhTCA7uZAERqWE=";
+      ref = "docker.io/jgraph/drawio@sha256:60cce89a67d93c5e440ba1eb2abbd6993ff36cf0c837d8c9f876460cab9f301e";
+      sha256 = "sha256-Ct4bIxcKomK0lwBLal+pC1hydqL9Te+qRvFcZGe4kUA=";
     };
     "docker.io/stirlingtools/stirling-pdf:latest" = {
       ref = "docker.io/stirlingtools/stirling-pdf@sha256:50a738d66dd30fcbcacd7844414a8be9bdb1c9c4c88f1a8d16321b308589d909";
