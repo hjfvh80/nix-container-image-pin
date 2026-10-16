@@ -17,8 +17,8 @@
       sha256 = "sha256-9WxSETHhNnF+w2FyBGxce6GlwoesJeCqWl3k9Ydae3I=";
     };
     "docker.io/stirlingtools/stirling-pdf:latest" = {
-      ref = "docker.io/stirlingtools/stirling-pdf@sha256:0b33f7ed24912de5b65b90ada2b1b42e2abc24f2029f8692adc944a148522f74";
-      sha256 = "sha256-sh8a7JC7755sdTrgMfM3MQ5BCsLLqu06eJPU0eojoGM=";
+      ref = "docker.io/stirlingtools/stirling-pdf@sha256:87d465ba70452dcc761de738339951869dbf590c1a31cb4a0a287512fd614d2d";
+      sha256 = "sha256-YfE6EcUr56OXcfyhdWu1EJjOyIZwW2jjRhpYeTFaV+w=";
     };
     "docker.io/hashicorp/http-echo:latest" = {
       ref = "docker.io/hashicorp/http-echo@sha256:2c213d6c05a0f68adfe9c7fe1a78a314e5c4fee783e2ee8592d49f10d0c4513f";
@@ -67,8 +67,8 @@
       sha256 = "sha256-mvXiQNxTKfhMjD8BB59SJQkypolEFFQcMZKlacHiUrk=";
     };
     "docker.io/stirlingtools/stirling-pdf:latest" = {
-      ref = "docker.io/stirlingtools/stirling-pdf@sha256:63859e7302a0533a773655c99071756bbc4a0c710ea3259f1e02671b56cdf8dd";
-      sha256 = "sha256-t1CEvxfq77zlwXTcvhs2/dw0HV4idd6pN3d8OoF0H6Y=";
+      ref = "docker.io/stirlingtools/stirling-pdf@sha256:8eba9c2d4d3cf3a5dd4b810cef2ca580fbd166f8368e103360c5e1360e181660";
+      sha256 = "sha256-KDgBpMpd6l7iqt71lkW13K3Ep/NqvA/OtQ5MMHQBW0M=";
     };
     "docker.io/vaultwarden/server:latest" = {
       ref = "docker.io/vaultwarden/server@sha256:dfaefaea21028ea3024b708330b0aed27c4a448a49a3e174e49962f3e0789fc4";
