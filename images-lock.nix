@@ -1,8 +1,8 @@
 {
   x86_64-linux = {
     "docker.io/jgraph/drawio:latest" = {
-      ref = "docker.io/jgraph/drawio@sha256:c34184d9a8489dde1903ef7f52be9d18b26c657e964102a59fdf1b88ee5b7e39";
-      sha256 = "sha256-VyvvGMbROy5XAwrSzJbWpovQxyNfO4z7IwaOTHqe9a8=";
+      ref = "docker.io/jgraph/drawio@sha256:ad5114cd48254462a5065d8e1ecb444484663a7ae8894898e6cf960c54cc5427";
+      sha256 = "sha256-rrh4RpH/7Ch5HGiEOUZryxUJuczEpnYkt29nI3lqp0E=";
     };
     "docker.io/dokuwiki/dokuwiki:stable" = {
       ref = "docker.io/dokuwiki/dokuwiki@sha256:8d124808aeaeac57411fa1649da0f487078fa559bc43ffafe4ffa98ac09cba6a";
@@ -63,8 +63,8 @@
       sha256 = "sha256-fBg+rYRFur6X0nxxno4+DTbbTp7oXJs4Fs+28CPqOoI=";
     };
     "docker.io/jgraph/drawio:latest" = {
-      ref = "docker.io/jgraph/drawio@sha256:6f46834801ca269198f7727a4ad785b158376491b0fb8d2ce90339cf1d6fd52e";
-      sha256 = "sha256-mvXiQNxTKfhMjD8BB59SJQkypolEFFQcMZKlacHiUrk=";
+      ref = "docker.io/jgraph/drawio@sha256:f63c415104d996f07c37ea0859749d49a82ac8e2f2ef0724b2f56c680677d2f1";
+      sha256 = "sha256-6lDN1lsF3VOlabfgFZteGwvCENaOa3v20BdEUg6Y5CY=";
     };
     "docker.io/stirlingtools/stirling-pdf:latest" = {
       ref = "docker.io/stirlingtools/stirling-pdf@sha256:8eba9c2d4d3cf3a5dd4b810cef2ca580fbd166f8368e103360c5e1360e181660";
