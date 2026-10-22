@@ -5,8 +5,8 @@
       sha256 = "sha256-rrh4RpH/7Ch5HGiEOUZryxUJuczEpnYkt29nI3lqp0E=";
     };
     "docker.io/dokuwiki/dokuwiki:stable" = {
-      ref = "docker.io/dokuwiki/dokuwiki@sha256:4c3a8ca293744d02fb412f6242efc4382a5761abeb6d1c02c60f82c6cdffad0e";
-      sha256 = "sha256-1vQYVLQB7Ees3ZeCn28JAnJfus9g/t88Ls/i2Ezgntg=";
+      ref = "docker.io/dokuwiki/dokuwiki@sha256:8cac20dbce6e519f6d445e7e47cdf014a68eb61ca959469d1d6d4c0f379496b8";
+      sha256 = "sha256-jFDk5kvg0BWjumnLRxaBNTN8diD8awR+ryF7Qg+O98Y=";
     };
     "docker.io/pihole/pihole:latest" = {
       ref = "docker.io/pihole/pihole@sha256:d8d848307ffe7f8c4b42be423b33295d6a45282215eb5a96fe25e05fa39b1abc";
@@ -17,8 +17,8 @@
       sha256 = "sha256-OPI2KrU/ADtaCa1S4g0dSNKmg0QvYyNcbkCMZZ0XISE=";
     };
     "docker.io/stirlingtools/stirling-pdf:latest" = {
-      ref = "docker.io/stirlingtools/stirling-pdf@sha256:87d465ba70452dcc761de738339951869dbf590c1a31cb4a0a287512fd614d2d";
-      sha256 = "sha256-YfE6EcUr56OXcfyhdWu1EJjOyIZwW2jjRhpYeTFaV+w=";
+      ref = "docker.io/stirlingtools/stirling-pdf@sha256:f5e19426e4a2bf06c90c01cbdf334847cadb0f0d8ea0d742f5478a7ec87a3cda";
+      sha256 = "sha256-KXmDRTnZH+mcTmfSvqfiFbBHgZu7uD7fjLD8LHiHGKA=";
     };
     "docker.io/hashicorp/http-echo:latest" = {
       ref = "docker.io/hashicorp/http-echo@sha256:2c213d6c05a0f68adfe9c7fe1a78a314e5c4fee783e2ee8592d49f10d0c4513f";
@@ -55,8 +55,8 @@
       sha256 = "sha256-Mx98J2qSvAjlZEUcmhIWp9MniLE/OAwCaiHSCIDSElI=";
     };
     "docker.io/dokuwiki/dokuwiki:stable" = {
-      ref = "docker.io/dokuwiki/dokuwiki@sha256:2deb7c1f9a0c410b525a5a170546c1ec25e686961889b4acdd08d02765bb1829";
-      sha256 = "sha256-ya/3nkhnHCa4Qtyg+MN4fZjlocJxFcizJK0V0tk8/RY=";
+      ref = "docker.io/dokuwiki/dokuwiki@sha256:6048fb455554ebe6dce1eb1f809c55db979173071995732399ad12c7d2a0834b";
+      sha256 = "sha256-iV+q8pG5nIKjm/iy1fzetKxPjWMYKyJzataYG1awNtg=";
     };
     "docker.io/rcourtman/pulse:latest" = {
       ref = "docker.io/rcourtman/pulse@sha256:1973e78f143b4946c498f57416b6a855e642b6aa83ed22007ca3547aed644a0a";
@@ -67,8 +67,8 @@
       sha256 = "sha256-6lDN1lsF3VOlabfgFZteGwvCENaOa3v20BdEUg6Y5CY=";
     };
     "docker.io/stirlingtools/stirling-pdf:latest" = {
-      ref = "docker.io/stirlingtools/stirling-pdf@sha256:8eba9c2d4d3cf3a5dd4b810cef2ca580fbd166f8368e103360c5e1360e181660";
-      sha256 = "sha256-KDgBpMpd6l7iqt71lkW13K3Ep/NqvA/OtQ5MMHQBW0M=";
+      ref = "docker.io/stirlingtools/stirling-pdf@sha256:8811626d2359e68d96698b639a0c095df1c5d4427a0f85eefa42acb67d9a20d5";
+      sha256 = "sha256-y9Qsqqb27ARt9XMnmaU+iRox/yYnpJRnO9FmHd8gvzI=";
     };
     "docker.io/vaultwarden/server:latest" = {
       ref = "docker.io/vaultwarden/server@sha256:dfaefaea21028ea3024b708330b0aed27c4a448a49a3e174e49962f3e0789fc4";
