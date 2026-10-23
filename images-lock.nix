@@ -13,8 +13,8 @@
       sha256 = "sha256-0cao/DdsbH7tqGqhff72Gn7cnbwTxfyjZSEL04LKxcw=";
     };
     "docker.io/fnsys/dockhand:latest" = {
-      ref = "docker.io/fnsys/dockhand@sha256:332eef2f7dacdb4429e22bbb70723eb0b6f5686bbbc86ecdef4b10edb6d87c6c";
-      sha256 = "sha256-OPI2KrU/ADtaCa1S4g0dSNKmg0QvYyNcbkCMZZ0XISE=";
+      ref = "docker.io/fnsys/dockhand@sha256:d15656246d6d8f2caf12743236c88ad1b728e2a2b918e1858ae116d05f8875a9";
+      sha256 = "sha256-qrK5um/qiN7G/VulAY9+BEdLXl2qJBATzCQlb7J/8K0=";
     };
     "docker.io/stirlingtools/stirling-pdf:latest" = {
       ref = "docker.io/stirlingtools/stirling-pdf@sha256:f5e19426e4a2bf06c90c01cbdf334847cadb0f0d8ea0d742f5478a7ec87a3cda";
@@ -29,8 +29,8 @@
       sha256 = "sha256-XeQW5ps7OLvffVPWS5NZ1Mv5BqIZvUOtuWGdZrHahyo=";
     };
     "docker.io/lmscommunity/lyrionmusicserver:stable" = {
-      ref = "docker.io/lmscommunity/lyrionmusicserver@sha256:a2719428e28116bc2bf222d066cfd0a3c6c9da579a29a2fb857027faf2cc4321";
-      sha256 = "sha256-3C9PXQpdaf93czgFDe/hG+Nvwh00ualw5BGFCYVp/gA=";
+      ref = "docker.io/lmscommunity/lyrionmusicserver@sha256:55a94c281bec1cb7d9e8d58283904caf9af9e0b992988dc9d23ca93559ed9fe3";
+      sha256 = "sha256-bT/MqJ5QR8J+tFJ9emWEXy6CmUT1K9qP8f9rWAwryZs=";
     };
     "docker.io/vaultwarden/server:latest" = {
       ref = "docker.io/vaultwarden/server@sha256:2bb2e0344616c62a6d76ea10558497499f8ed3f731400e143dc7bf17b757b5b9";
@@ -39,12 +39,12 @@
   };
   aarch64-linux = {
     "docker.io/fnsys/dockhand:latest" = {
-      ref = "docker.io/fnsys/dockhand@sha256:8bea2d16e7543c4d929fe61e70184f59f9aa6dae93896629c36975f37edaf43f";
-      sha256 = "sha256-Q/b3/HEF1dSxKAemUpZEEizsjglUEBbm5erwv4zNeMM=";
+      ref = "docker.io/fnsys/dockhand@sha256:8950f1cb6c3e00cfdb076c80c8b0ad6bd22494def80c249ede496681f5801f46";
+      sha256 = "sha256-ckGjlW9zIh9uvsmfwd33hBVb0TOWi9S+D5d+o4B4RA4=";
     };
     "docker.io/lmscommunity/lyrionmusicserver:stable" = {
-      ref = "docker.io/lmscommunity/lyrionmusicserver@sha256:73e47369d60bedaf5b3184066f5e9934a8c63d990f6db8827a44384a561b9fd0";
-      sha256 = "sha256-JE+2MWZ+j0gZtIGF6vLxesGQFkELyMB4Nf/i5rJUWy8=";
+      ref = "docker.io/lmscommunity/lyrionmusicserver@sha256:e1491646d275e1bd53428c73391b2859d70b5bf48497ae7726946715bfee911e";
+      sha256 = "sha256-ZldC2CsNRar206ijyOkRSXSmlKdU2NvIN6KMb4tquhg=";
     };
     "docker.io/hashicorp/http-echo:latest" = {
       ref = "docker.io/hashicorp/http-echo@sha256:3f5c9a5a28daf63a712bbf45f2fa0741be9cd34339ba598a5c13af02959f108d";
@@ -81,8 +81,8 @@
       sha256 = "sha256-1vuyTyBBgNka4JFMizO7+GsBCtZPoTI8QC1atVgKDfQ=";
     };
     "docker.io/lmscommunity/lyrionmusicserver:stable" = {
-      ref = "docker.io/lmscommunity/lyrionmusicserver@sha256:25f80e5d170ae0382427fcfc72cd13f3a324f2bafd7a6271404fb56b27a2c954";
-      sha256 = "sha256-dcoQa0Glqrp4uMs+g8EcVETr2UqKr429Evh3WUVI1Ew=";
+      ref = "docker.io/lmscommunity/lyrionmusicserver@sha256:37314dd240055da6bf288afe294142a0a34c1ceecd567c0dfd6aaf545a6eb36f";
+      sha256 = "sha256-cghdLiTKRZPNaZNDcoUEJ1L9ED3CXWv8Xoe/ZUsHUp4=";
     };
     "docker.io/vaultwarden/server:latest" = {
       ref = "docker.io/vaultwarden/server@sha256:3299ca3c8788ba7b518083064d7e743518cf6bcf6cb46efd952acb1e6792998b";
