@@ -29,8 +29,8 @@
       sha256 = "sha256-XeQW5ps7OLvffVPWS5NZ1Mv5BqIZvUOtuWGdZrHahyo=";
     };
     "docker.io/lmscommunity/lyrionmusicserver:stable" = {
-      ref = "docker.io/lmscommunity/lyrionmusicserver@sha256:55a94c281bec1cb7d9e8d58283904caf9af9e0b992988dc9d23ca93559ed9fe3";
-      sha256 = "sha256-bT/MqJ5QR8J+tFJ9emWEXy6CmUT1K9qP8f9rWAwryZs=";
+      ref = "docker.io/lmscommunity/lyrionmusicserver@sha256:1344a56ce342d2e7b0be728ccc615e04bb2696c088fe299ade238a6dea1a7dde";
+      sha256 = "sha256-hLJGQiMic3VfEQSjtUTqVRcfaZ9r4Sp3p0p0NO08HNE=";
     };
     "docker.io/vaultwarden/server:latest" = {
       ref = "docker.io/vaultwarden/server@sha256:2bb2e0344616c62a6d76ea10558497499f8ed3f731400e143dc7bf17b757b5b9";
@@ -43,8 +43,8 @@
       sha256 = "sha256-ckGjlW9zIh9uvsmfwd33hBVb0TOWi9S+D5d+o4B4RA4=";
     };
     "docker.io/lmscommunity/lyrionmusicserver:stable" = {
-      ref = "docker.io/lmscommunity/lyrionmusicserver@sha256:e1491646d275e1bd53428c73391b2859d70b5bf48497ae7726946715bfee911e";
-      sha256 = "sha256-ZldC2CsNRar206ijyOkRSXSmlKdU2NvIN6KMb4tquhg=";
+      ref = "docker.io/lmscommunity/lyrionmusicserver@sha256:f28c7048bba9e552b16ce3a1b9648d54ef1579020258c99d32ec9b9073783457";
+      sha256 = "sha256-W04g5B8qSqQqFXDdWj2fufyHPnWeBVQ05QfTHWxht/s=";
     };
     "docker.io/hashicorp/http-echo:latest" = {
       ref = "docker.io/hashicorp/http-echo@sha256:3f5c9a5a28daf63a712bbf45f2fa0741be9cd34339ba598a5c13af02959f108d";
@@ -81,8 +81,8 @@
       sha256 = "sha256-1vuyTyBBgNka4JFMizO7+GsBCtZPoTI8QC1atVgKDfQ=";
     };
     "docker.io/lmscommunity/lyrionmusicserver:stable" = {
-      ref = "docker.io/lmscommunity/lyrionmusicserver@sha256:37314dd240055da6bf288afe294142a0a34c1ceecd567c0dfd6aaf545a6eb36f";
-      sha256 = "sha256-cghdLiTKRZPNaZNDcoUEJ1L9ED3CXWv8Xoe/ZUsHUp4=";
+      ref = "docker.io/lmscommunity/lyrionmusicserver@sha256:28899d5376263e9ab8f9d0265df2168a976845c72d23d5f870fe8a3eb1d09d96";
+      sha256 = "sha256-t6i/W4KvIsMV229plA01Cz9zDyW14RjrEoQfb3+1zAY=";
     };
     "docker.io/vaultwarden/server:latest" = {
       ref = "docker.io/vaultwarden/server@sha256:3299ca3c8788ba7b518083064d7e743518cf6bcf6cb46efd952acb1e6792998b";
