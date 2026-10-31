@@ -1,16 +1,16 @@
 {
   x86_64-linux = {
     "docker.io/jgraph/drawio:latest" = {
-      ref = "docker.io/jgraph/drawio@sha256:71d6ada4e11b163ff50593d8773b45a507e8b151a5ef74bd1da5298f03f62c94";
-      sha256 = "sha256-UhWA4ISkTPvYLg/pLOOzXAORfzzHJpd/+XpDoSNa5VY=";
+      ref = "docker.io/jgraph/drawio@sha256:9dc9a087f0071f62ed34346100b41a7f15ff1c389a28bc4033392234b401a997";
+      sha256 = "sha256-5poXPzv1qfLuY5oTKPODpm7cbX6WqodZLWU+rtgRihQ=";
     };
     "docker.io/dokuwiki/dokuwiki:stable" = {
       ref = "docker.io/dokuwiki/dokuwiki@sha256:01a8cedac6fa3e63acb2ccd1493c01e54c5450a0306fd650bba80ab90af4a5b0";
       sha256 = "sha256-qkrjGK7CCir6d9XXsPGp+eP6YrC7vJpa+FfEXYlxpAU=";
     };
     "docker.io/pihole/pihole:latest" = {
-      ref = "docker.io/pihole/pihole@sha256:d8d848307ffe7f8c4b42be423b33295d6a45282215eb5a96fe25e05fa39b1abc";
-      sha256 = "sha256-0cao/DdsbH7tqGqhff72Gn7cnbwTxfyjZSEL04LKxcw=";
+      ref = "docker.io/pihole/pihole@sha256:1c7aba2fdaa043d5ce194e9141dcaeded762bb72a15b53350751b9ba7b488557";
+      sha256 = "sha256-EEneDYqMCeShAU6F/DrDFowMZgctur4yMAGo9/kv5+M=";
     };
     "docker.io/fnsys/dockhand:latest" = {
       ref = "docker.io/fnsys/dockhand@sha256:ee129c3f8437ca4232a7da91439701f46e5c1c46259f20b8097458e1442f0ce3";
@@ -51,8 +51,8 @@
       sha256 = "sha256-pqWruKiBLstA73d2cnfDm5KqMU4evSWCmVPm9n6Q54k=";
     };
     "docker.io/pihole/pihole:latest" = {
-      ref = "docker.io/pihole/pihole@sha256:949894415b77f97e5336becdd2052702b21044acf25560db5cc5c7e8117c2a6e";
-      sha256 = "sha256-Mx98J2qSvAjlZEUcmhIWp9MniLE/OAwCaiHSCIDSElI=";
+      ref = "docker.io/pihole/pihole@sha256:10b5ca14ebd44f693bcb4876d027c7a5270f7ca635280ff8870058f0d59d0549";
+      sha256 = "sha256-JTaEhcIiF/h9XCqpxtf2szFqaFJ2XbQQFtep39SQPpc=";
     };
     "docker.io/dokuwiki/dokuwiki:stable" = {
       ref = "docker.io/dokuwiki/dokuwiki@sha256:5f52463e7e7f2732d41a08438cf490751ec804a3586b1f5da85a26379d4269ce";
@@ -63,8 +63,8 @@
       sha256 = "sha256-jJ2IuXTTTdHHUxFR98dQPzfD3uEzUf9sh6t+E8J5A0I=";
     };
     "docker.io/jgraph/drawio:latest" = {
-      ref = "docker.io/jgraph/drawio@sha256:693feb8978db554291793a8d0bd99f1055ffe3477ff6c0c7c60817e5acb38803";
-      sha256 = "sha256-MGUZrxkg08LxWp/nJv1IhkmlRqjiTNMpobSNsK2zpGA=";
+      ref = "docker.io/jgraph/drawio@sha256:38c2ae0f2df5970211309e5447ca62fcdb48da43498b53ca58de0ae46a0dd8b9";
+      sha256 = "sha256-lbUSpMfDRBHyU8716ChHMQvmtHywTdBQVIs0Tjlwy1E=";
     };
     "docker.io/stirlingtools/stirling-pdf:latest" = {
       ref = "docker.io/stirlingtools/stirling-pdf@sha256:fca6723f507b937e8573e649bc671e17af3084ad7c1cb37e8113b5fa81ea277e";
@@ -77,8 +77,8 @@
   };
   armv7l-linux = {
     "docker.io/pihole/pihole:latest" = {
-      ref = "docker.io/pihole/pihole@sha256:73a8ec567b5919a6296e47041cfae6b9548c201fd5d2f011d0cec4a45bb681b6";
-      sha256 = "sha256-1vuyTyBBgNka4JFMizO7+GsBCtZPoTI8QC1atVgKDfQ=";
+      ref = "docker.io/pihole/pihole@sha256:cd863f5a095c6964389c5f463ecc8c2f9f187534586718b2f0f14d2ef41ab572";
+      sha256 = "sha256-HNLFQMhdIhzeCMoXIGorqb5pRfiHnvYGk3K4KPU1cHQ=";
     };
     "docker.io/lmscommunity/lyrionmusicserver:stable" = {
       ref = "docker.io/lmscommunity/lyrionmusicserver@sha256:28899d5376263e9ab8f9d0265df2168a976845c72d23d5f870fe8a3eb1d09d96";
@@ -95,14 +95,14 @@
       sha256 = "sha256-/90UTASkNBCDllQCmhLlZdvYYKnIOi9h1uFVWwKhurE=";
     };
     "docker.io/pihole/pihole:latest" = {
-      ref = "docker.io/pihole/pihole@sha256:dbe8d11c51a8f47b42720f6518873e473f68368b72962253480e93988a8c32e4";
-      sha256 = "sha256-FwT0XCf7qygzywy1iUGk77rqlmREgLe0tJHQbdBFvak=";
+      ref = "docker.io/pihole/pihole@sha256:c3e1ee91af2e519139475128e79af05c9897d5ea85dff7bf847cb2242cd2e774";
+      sha256 = "sha256-/Ho/SIR+MCbJYZ/u0Oc/DL9r2Qd7npuMQgF9hewKB+w=";
     };
   };
   i686-linux = {
     "docker.io/pihole/pihole:latest" = {
-      ref = "docker.io/pihole/pihole@sha256:d8d4a4266dd7cd48cd74f20d5875e4240fb0c6b6c5595345338191e319c685e4";
-      sha256 = "sha256-mOHYS4ge/Cs61NTzUutGXQT9wMJmdyReOyLlbV9UOsA=";
+      ref = "docker.io/pihole/pihole@sha256:a369cd318ccf5d59c712b11400081806dd1100ae3305bd3f553416c86dabd87e";
+      sha256 = "sha256-GcSjHEHXZckMygpOgI8lg6PLV5f1893xj0zA2qnAUyU=";
     };
   };
 }
