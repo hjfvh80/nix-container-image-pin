@@ -25,16 +25,16 @@
       sha256 = "sha256-hgVSU8/NXqWtZ/YYOKIFz7DHoH0592qxAi2ljwCSgOM=";
     };
     "docker.io/rcourtman/pulse:latest" = {
-      ref = "docker.io/rcourtman/pulse@sha256:f8197da2f4428db8d8c44ca0c07bd1574a61bf216d71d6eb8b205e1fede0249f";
-      sha256 = "sha256-bWdV7YE7j3Rte7ik/dR4eKIl4wF6wp1/tzaY8E/VyDk=";
+      ref = "docker.io/rcourtman/pulse@sha256:b3f8af890ea6db9919cae7d1522978ece0c9a6e5e98e938dd22b28ad1d47b72b";
+      sha256 = "sha256-J+3Qny5Fa3WnkKkfeRWAT+XQfdw/eg9hxi6Z5ninWVA=";
     };
     "docker.io/lmscommunity/lyrionmusicserver:stable" = {
       ref = "docker.io/lmscommunity/lyrionmusicserver@sha256:1344a56ce342d2e7b0be728ccc615e04bb2696c088fe299ade238a6dea1a7dde";
       sha256 = "sha256-hLJGQiMic3VfEQSjtUTqVRcfaZ9r4Sp3p0p0NO08HNE=";
     };
     "docker.io/vaultwarden/server:latest" = {
-      ref = "docker.io/vaultwarden/server@sha256:2bb2e0344616c62a6d76ea10558497499f8ed3f731400e143dc7bf17b757b5b9";
-      sha256 = "sha256-TYJjyvrfS7RPmwH0mwNGu8ANg3bbmeOR3w6Bbh1FxTY=";
+      ref = "docker.io/vaultwarden/server@sha256:f8863ab2519364bfc657144006682a830784e0bb501606d5e34516ee76b60b5c";
+      sha256 = "sha256-217liZimF5TNjj8+jSVCuSFPmpd1kJVsYDiKWFcxChg=";
     };
   };
   aarch64-linux = {
@@ -59,8 +59,8 @@
       sha256 = "sha256-y8RDMGpxgf9ANizT2iAtklTic/oU2GnQLbVXMzjz2ZA=";
     };
     "docker.io/rcourtman/pulse:latest" = {
-      ref = "docker.io/rcourtman/pulse@sha256:773dc8bb5812052dc88b58def1c6ba6a55938a61dc5586d78472cdd20f5c343f";
-      sha256 = "sha256-jJ2IuXTTTdHHUxFR98dQPzfD3uEzUf9sh6t+E8J5A0I=";
+      ref = "docker.io/rcourtman/pulse@sha256:b696c2e4e3a340eb839d289a174bc1173b368063ca455550398273972b13b96e";
+      sha256 = "sha256-zbFEkt2isSNobYotCLYje12Y/bD1zuIj/5TCVpXea8s=";
     };
     "docker.io/jgraph/drawio:latest" = {
       ref = "docker.io/jgraph/drawio@sha256:38c2ae0f2df5970211309e5447ca62fcdb48da43498b53ca58de0ae46a0dd8b9";
@@ -71,8 +71,8 @@
       sha256 = "sha256-EBISNetJnZ1NQauU+iP/XAw8p8lbsv0RN/+IMtt8rIo=";
     };
     "docker.io/vaultwarden/server:latest" = {
-      ref = "docker.io/vaultwarden/server@sha256:dfaefaea21028ea3024b708330b0aed27c4a448a49a3e174e49962f3e0789fc4";
-      sha256 = "sha256-AiaIm2xBMEf68Y5/zgZmnkx9HqrBfJRzuii+G0VzBRc=";
+      ref = "docker.io/vaultwarden/server@sha256:2c45fafac6673687cfd50408c537e966d89fa6c53f21dc6de6a4ff5c2a175630";
+      sha256 = "sha256-mpfeBw91dmERNmiJqcZZCDYP+cnhOTalp/05cPiwx70=";
     };
   };
   armv7l-linux = {
@@ -85,14 +85,14 @@
       sha256 = "sha256-t6i/W4KvIsMV229plA01Cz9zDyW14RjrEoQfb3+1zAY=";
     };
     "docker.io/vaultwarden/server:latest" = {
-      ref = "docker.io/vaultwarden/server@sha256:3299ca3c8788ba7b518083064d7e743518cf6bcf6cb46efd952acb1e6792998b";
-      sha256 = "sha256-ewmv9NpIO1XNiNAEqqVhAAOiXv0eawPlVRNELuOHuW8=";
+      ref = "docker.io/vaultwarden/server@sha256:842c902e807d6b9a17213e6d56556d0f6640432abaafc0af375807417b5b22e7";
+      sha256 = "sha256-R8Z3EEnP3TUgk2D1Jj/ajn9QG1OS2y5heEJQiBCiDlU=";
     };
   };
   armv6l-linux = {
     "docker.io/vaultwarden/server:latest" = {
-      ref = "docker.io/vaultwarden/server@sha256:8e91c0e24d562fc043287265faddea93faa1ed961cfa97862109a9093a4c56dc";
-      sha256 = "sha256-/90UTASkNBCDllQCmhLlZdvYYKnIOi9h1uFVWwKhurE=";
+      ref = "docker.io/vaultwarden/server@sha256:8750c4eef3ac0c3f3020280c9de6b4e177db670919e462cfe9401010340e48d3";
+      sha256 = "sha256-/HFSKVtfU3NgNFDj6qSaiQ3S4XqNkC6la5hLuw4dn6E=";
     };
     "docker.io/pihole/pihole:latest" = {
       ref = "docker.io/pihole/pihole@sha256:c3e1ee91af2e519139475128e79af05c9897d5ea85dff7bf847cb2242cd2e774";
