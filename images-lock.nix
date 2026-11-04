@@ -13,8 +13,8 @@
       sha256 = "sha256-EEneDYqMCeShAU6F/DrDFowMZgctur4yMAGo9/kv5+M=";
     };
     "docker.io/fnsys/dockhand:latest" = {
-      ref = "docker.io/fnsys/dockhand@sha256:ee129c3f8437ca4232a7da91439701f46e5c1c46259f20b8097458e1442f0ce3";
-      sha256 = "sha256-z63XeVqgKb/F0D6ArE2MtdeKd8InrhFNc68h5bn01y4=";
+      ref = "docker.io/fnsys/dockhand@sha256:dd87e32528c0e308644411393064f109f98dd81980c08fd1298d415e6dfce5a3";
+      sha256 = "sha256-zx5yFB4yu+D7TYneS90y11j0ogq/Z0vmbIG9JDUlMow=";
     };
     "docker.io/stirlingtools/stirling-pdf:latest" = {
       ref = "docker.io/stirlingtools/stirling-pdf@sha256:0d3fa730272ddb037c71db6ae760e1af991722d88c2129f41c31feee6fca30e6";
@@ -39,8 +39,8 @@
   };
   aarch64-linux = {
     "docker.io/fnsys/dockhand:latest" = {
-      ref = "docker.io/fnsys/dockhand@sha256:5b7c0496666b97027543ecfba998f4807ec27c0d53d3e16b1e6e2799bf36f685";
-      sha256 = "sha256-DVYZaUv5K8GTTH5rqnencQQa2XhbfJB12O+X5MnQolg=";
+      ref = "docker.io/fnsys/dockhand@sha256:fb9d09f5713800a0d6935e3defd7438049d52782693a659dff14b5057bac5d1f";
+      sha256 = "sha256-A6yXrZUcKKxork+/AUIUa5jyr3E4fkwehcOoqFCXY/o=";
     };
     "docker.io/lmscommunity/lyrionmusicserver:stable" = {
       ref = "docker.io/lmscommunity/lyrionmusicserver@sha256:f28c7048bba9e552b16ce3a1b9648d54ef1579020258c99d32ec9b9073783457";
