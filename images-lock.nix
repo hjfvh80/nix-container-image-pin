@@ -9,8 +9,8 @@
       sha256 = "sha256-DraoSYKTuc6TLC2xDLNq5a8yKAA7/q+Nz/L0W4Lhv6g=";
     };
     "docker.io/pihole/pihole:latest" = {
-      ref = "docker.io/pihole/pihole@sha256:1c7aba2fdaa043d5ce194e9141dcaeded762bb72a15b53350751b9ba7b488557";
-      sha256 = "sha256-EEneDYqMCeShAU6F/DrDFowMZgctur4yMAGo9/kv5+M=";
+      ref = "docker.io/pihole/pihole@sha256:52762e1620160b1e8cb3e12c585d0d0b0df901395c2bad6b514db379e526a9fb";
+      sha256 = "sha256-6611S8X9rYJ+Q4OtZrCakvfkZ2rOm0Pm1XIFgPvhAkA=";
     };
     "docker.io/fnsys/dockhand:latest" = {
       ref = "docker.io/fnsys/dockhand@sha256:dd87e32528c0e308644411393064f109f98dd81980c08fd1298d415e6dfce5a3";
@@ -51,8 +51,8 @@
       sha256 = "sha256-pqWruKiBLstA73d2cnfDm5KqMU4evSWCmVPm9n6Q54k=";
     };
     "docker.io/pihole/pihole:latest" = {
-      ref = "docker.io/pihole/pihole@sha256:10b5ca14ebd44f693bcb4876d027c7a5270f7ca635280ff8870058f0d59d0549";
-      sha256 = "sha256-JTaEhcIiF/h9XCqpxtf2szFqaFJ2XbQQFtep39SQPpc=";
+      ref = "docker.io/pihole/pihole@sha256:13089e5c4d33c5cd8eb7b011949a380145f3ff1405dea24c81dd54dcb255b792";
+      sha256 = "sha256-CuSARM+VRG9Wz4i5Zh2TRD11tOkwQpGnXZO5bW8QRE8=";
     };
     "docker.io/dokuwiki/dokuwiki:stable" = {
       ref = "docker.io/dokuwiki/dokuwiki@sha256:b8914096e20b021a054acffd4b34674ffc8d9f0a70fe7584144e8ba3d1642a2c";
@@ -77,8 +77,8 @@
   };
   armv7l-linux = {
     "docker.io/pihole/pihole:latest" = {
-      ref = "docker.io/pihole/pihole@sha256:cd863f5a095c6964389c5f463ecc8c2f9f187534586718b2f0f14d2ef41ab572";
-      sha256 = "sha256-HNLFQMhdIhzeCMoXIGorqb5pRfiHnvYGk3K4KPU1cHQ=";
+      ref = "docker.io/pihole/pihole@sha256:94f6830278620129df2b0caa8fc10dc05c52e5df127054d702d4460cf9f4d3c0";
+      sha256 = "sha256-ksi9UHcZzYpVWH0/oz0rpAtQ2R132S1Rg0Ryf/0zPGA=";
     };
     "docker.io/lmscommunity/lyrionmusicserver:stable" = {
       ref = "docker.io/lmscommunity/lyrionmusicserver@sha256:28899d5376263e9ab8f9d0265df2168a976845c72d23d5f870fe8a3eb1d09d96";
@@ -95,14 +95,14 @@
       sha256 = "sha256-/HFSKVtfU3NgNFDj6qSaiQ3S4XqNkC6la5hLuw4dn6E=";
     };
     "docker.io/pihole/pihole:latest" = {
-      ref = "docker.io/pihole/pihole@sha256:c3e1ee91af2e519139475128e79af05c9897d5ea85dff7bf847cb2242cd2e774";
-      sha256 = "sha256-/Ho/SIR+MCbJYZ/u0Oc/DL9r2Qd7npuMQgF9hewKB+w=";
+      ref = "docker.io/pihole/pihole@sha256:f68ce903dd1e4c281c8a45446276e34616b7ef0942c67ecfd9e237a57a8db98a";
+      sha256 = "sha256-rOnQoP42e4oEbWiE/bueJHzdvCCUzL0uTZ42U2xVM9A=";
     };
   };
   i686-linux = {
     "docker.io/pihole/pihole:latest" = {
-      ref = "docker.io/pihole/pihole@sha256:a369cd318ccf5d59c712b11400081806dd1100ae3305bd3f553416c86dabd87e";
-      sha256 = "sha256-GcSjHEHXZckMygpOgI8lg6PLV5f1893xj0zA2qnAUyU=";
+      ref = "docker.io/pihole/pihole@sha256:cd9f8021f02a492ee2b77f705197adebb131555351a84c619ba82b8a3cad6120";
+      sha256 = "sha256-Mv8f1W0rITu1zTF2mDPtRqFX6ScS9SAadHEyvAmKXo8=";
     };
   };
 }
