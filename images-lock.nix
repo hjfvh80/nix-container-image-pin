@@ -25,8 +25,8 @@
       sha256 = "sha256-hgVSU8/NXqWtZ/YYOKIFz7DHoH0592qxAi2ljwCSgOM=";
     };
     "docker.io/rcourtman/pulse:latest" = {
-      ref = "docker.io/rcourtman/pulse@sha256:b3f8af890ea6db9919cae7d1522978ece0c9a6e5e98e938dd22b28ad1d47b72b";
-      sha256 = "sha256-J+3Qny5Fa3WnkKkfeRWAT+XQfdw/eg9hxi6Z5ninWVA=";
+      ref = "docker.io/rcourtman/pulse@sha256:12e169dfc6437683ca83e1b54222cab3c89ae05d9d20992b22f02a9fb3de0e1b";
+      sha256 = "sha256-59LBV8wzrg063mn/E/XOVcINZRHuPSjbt1INwpCrNg0=";
     };
     "docker.io/lmscommunity/lyrionmusicserver:stable" = {
       ref = "docker.io/lmscommunity/lyrionmusicserver@sha256:1344a56ce342d2e7b0be728ccc615e04bb2696c088fe299ade238a6dea1a7dde";
@@ -59,8 +59,8 @@
       sha256 = "sha256-lW8R52ztmzwpmhhjgTaeFmYFO9EnG5YKu8wc09Abodg=";
     };
     "docker.io/rcourtman/pulse:latest" = {
-      ref = "docker.io/rcourtman/pulse@sha256:b696c2e4e3a340eb839d289a174bc1173b368063ca455550398273972b13b96e";
-      sha256 = "sha256-zbFEkt2isSNobYotCLYje12Y/bD1zuIj/5TCVpXea8s=";
+      ref = "docker.io/rcourtman/pulse@sha256:a6ea61c7f92f7c341ecd2fe1c733717bc565abc26f344715b66a0af74cc38b42";
+      sha256 = "sha256-1VOP3O+2BBSSGDKD0GBlAHZ8kizrtSxjwU0VorsetCk=";
     };
     "docker.io/jgraph/drawio:latest" = {
       ref = "docker.io/jgraph/drawio@sha256:631712912c4833455b5821f4ea4220cb7a20c5c4eb6b40dc55315b1ab82b0f30";
